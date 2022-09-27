@@ -1944,6 +1944,7 @@ input::-moz-focus-inner {
   background-repeat: no-repeat;
   background-position: top center;
   background-image: url("../images/DSC06999.JPG");
+  cursor: url(../tiara.png), auto;
   background-size: cover;
   position: absolute;
   top: 20%;

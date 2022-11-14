@@ -1964,6 +1964,30 @@ input::-moz-focus-inner {
   bottom: 0;
   left: 50%;
 }
+.intro-pic-project3 {
+  background-color: #02182c;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-image: url("../comp.png");
+  background-size: cover;
+  position: absolute;
+  top: 20%;
+  right: 0;
+  bottom: 0;
+  left: 50%;
+}
+.intro-pic-project2 {
+  background-color: #02182c;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-image: url("../convos.png");
+  background-size: cover;
+  position: absolute;
+  top: 20%;
+  right: 0;
+  bottom: 0;
+  left: 50%;
+}
 
 .intro-pic::before {
   content: "";

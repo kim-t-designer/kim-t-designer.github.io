@@ -181,7 +181,9 @@ h6, .h6 {
 }
 
 p img {
-  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
 p.lead {
@@ -1435,11 +1437,17 @@ input::-moz-focus-inner {
   margin-left: auto;
   margin-right: auto;
 }
-img{
-  text-align: center;
+.centre{
+  display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 50%;
 }
+.teams{
+  font-size: small;
+  margin-top: 10px;
+}
+
 
 .pgn__next {
   background-image: url("../images/icons/icon-arrow-right.svg");
